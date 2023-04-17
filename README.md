@@ -19,7 +19,7 @@ What we learned today:
 9 lines (8 sloc)  475 Bytes
  
 
-Hi :smiley: :wave:   , in the latest 4 commits :bug:, am I morning person ?
+
 | | | | |%|
 | --- | --- | --- | --- | --- |
 | :sunny: | Morning | (06.00-12.00] | [**********----------] | 50.00 |
