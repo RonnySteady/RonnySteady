@@ -5,6 +5,10 @@ I am proud to be a part of the Web Development at Neue Fische.
 
 ![profile-picture](https://ca.slack-edge.com/TTHG21AH3-U052RDXGQSG-1dcb2bd50aae-72)
 
+What we learned today: 
+- Slack overwiew 
+- Mac shortcuts
+- Git and Github
 
 <!--
 **RonnySteady/RonnySteady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
