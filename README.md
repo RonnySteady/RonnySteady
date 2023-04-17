@@ -15,17 +15,15 @@ What we learned today:
 
 
 
-
-9 lines (8 sloc)  475 Bytes
  
 
 
 | | | | |%|
 | --- | --- | --- | --- | --- |
-| :sunny: | Morning | (06.00-12.00] | [**********----------] | 50.00 |
-| :satisfied: | Daytime | (12.00-18.00] | [**********----------] | 50.00 |
-| :moon: | Evening | (18.00-00.00] | [--------------------] | 0.00 |
-| :sleeping: | Night | (00.00-06.00] | [--------------------] | 0.00 |
+| :sunny: | Morning | (06.00-12.00] | [**********----------] 
+| :satisfied: | Daytime | (12.00-18.00] | [**********----------] 
+| :moon: | Evening | (18.00-00.00] | [--------------------] 
+| :sleeping: | Night | (00.00-06.00] | [--------------------] 
 
 ![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
 
