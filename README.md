@@ -31,8 +31,6 @@ What we learned today:
 
 Pic of the Day:
 
-  <br>
-  <br>
   <a href="https://www.dailyrandomphoto.com/p/2023/2023-04-16/"><img src="https://images.unsplash.com/photo-1680955886049-ce69173143bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTY4MTYwNTEyNg&ixlib=rb-4.0.3&q=80&w=1080" width="600px"></a>
   <a href="https://www.dailyrandomphoto.com/p/2023/2023-04-17/"><img src="https://images.unsplash.com/photo-1680034200919-26a16a426d34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw3NzUwOHwwfDF8cmFuZG9tfHx8fHx8fHx8MTY4MTY5MTQ0Mw&ixlib=rb-4.0.3&q=80&w=1080" width="600px"></a>
   <br>
