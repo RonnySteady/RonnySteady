@@ -10,6 +10,11 @@ What we learned today:
 - Mac shortcuts
 - Git and Github
 
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
+
+
 <!--
 **RonnySteady/RonnySteady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
