@@ -11,8 +11,9 @@ What we learned today:
 - Git and Github
 
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 
  
@@ -28,7 +29,7 @@ What we learned today:
 ![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
 
 
-
+Pic of the Day:
 
   <br>
   <br>
