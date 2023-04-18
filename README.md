@@ -14,8 +14,8 @@ What we learned today:
 
 
 <p align="center">
-	<a href="https://github.com/ronnysteady"><img src="imgs/github.svg" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/ronaldheimert"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+	<a href="https://github.com/ronnysteady"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/github.svg" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/ronaldheimert"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/linkedin.svg" alt="LinkedIn"></a>
 </p>
 
 
