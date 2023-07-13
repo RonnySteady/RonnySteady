@@ -8,9 +8,10 @@ My name is Ronald, 45 years and living near Frankfurt/Germany and somewhere betw
 
 ## Capstone Project
 
-My app allows dog owners to store important data about their beloved four-legged friends, such as date and place of birth, gender, breed, but also the transponder ID, vaccinations and insurance. This way, you always have this information with you when you go for a walk or on a longer trip and e.g. can show it to the vet in case of an emergency.
+Dog Pass is my Capstone Project for the Neue Fische Web Development Bootcamp. My app allows Dog owners to store important data about their beloved four-legged friends, such as date and place of birth, gender, breed, but also the transponder ID, vaccinations and insurance. This way, you always have this information with you when you go for a walk or on a longer trip and e.g. can show it to the vet in case of an emergency.
 
 ---
+
 ## App Preview
 
 <img src="https://github.com/RonnySteady/dogpass/assets/130970897/3fbefaa1-927d-4adc-a53f-2cbea0d404b9" style="width: 350px; height: auto;">
