@@ -4,8 +4,6 @@
 
 My name is Ronald, 45 years and living near Frankfurt/Germany and somewhere between digital native and digital immigrant. After 20 years of various positions in Sales and Account Management now I am on my way to become a web developer.
 
-![profile-picture](https://ca.slack-edge.com/TTHG21AH3-U052RDXGQSG-1dcb2bd50aae-72)
-
 ---
 
 ## Capstone Project
